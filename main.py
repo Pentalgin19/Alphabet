@@ -507,5 +507,10 @@ def YA ():
     b(100)
     sp(1)
 nach()
-
+# буквы
+# P()
+# I()
+# T()
+# O()
+# N()
 turtle.done()
