@@ -28,11 +28,8 @@ def crd(a, b):
     turtle.goto(x + a, y + b)
 def nach ():
     pu()
-    f(200)
-    l(90)
-    f(500)
+    crd(-500, 200)
     pd()
-    r(90)
 def nW ():
     pu()
     turtle.home()
@@ -42,6 +39,8 @@ def nW ():
     f(200)
     l(180)
     pd()
+nach()
+
 
 def A ():
     f(200)
@@ -506,7 +505,6 @@ def YA ():
         l(90)
     b(100)
     sp(1)
-nach()
 # буквы
 # P()
 # I()
